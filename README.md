@@ -1,2 +1,3 @@
 # Learning-C
-Projects from "Head First C" and my comments!
+
+My personal spin + additions to projects from Head First C!
